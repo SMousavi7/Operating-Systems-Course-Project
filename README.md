@@ -80,5 +80,5 @@ The current code is not meant to be a production-level simulator, but rather a p
 
 Designed and developed by:
 
-* **[Your Name]**
-* **[Friend's Name]**
+* **SMousavi7**
+* **F4rzin**
